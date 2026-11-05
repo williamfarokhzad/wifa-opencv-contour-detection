@@ -1,0 +1,44 @@
+{
+  "size_wh_px": [
+    96,
+    64
+  ],
+  "foreground_px": 1173,
+  "external_boundaries": 2,
+  "tree_boundaries": 3,
+  "foreground_boundaries_before_filter": 2,
+  "parts": [
+    {
+      "box_xywh_px": [
+        8,
+        7,
+        31,
+        31
+      ],
+      "touches_image_border": false,
+      "depth": 0,
+      "outer_area_px2": 900.0,
+      "direct_holes": 1,
+      "qualifying_holes": 1,
+      "qualifying_hole_areas_px2": [
+        254.0
+      ],
+      "classification": "one-qualifying-hole"
+    },
+    {
+      "box_xywh_px": [
+        59,
+        10,
+        23,
+        19
+      ],
+      "touches_image_border": false,
+      "depth": 0,
+      "outer_area_px2": 396.0,
+      "direct_holes": 0,
+      "qualifying_holes": 0,
+      "qualifying_hole_areas_px2": [],
+      "classification": "no-qualifying-hole"
+    }
+  ]
+}

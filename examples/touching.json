@@ -1,0 +1,29 @@
+{
+  "size_wh_px": [
+    96,
+    64
+  ],
+  "foreground_px": 1936,
+  "external_boundaries": 1,
+  "tree_boundaries": 2,
+  "foreground_boundaries_before_filter": 1,
+  "parts": [
+    {
+      "box_xywh_px": [
+        8,
+        11,
+        80,
+        34
+      ],
+      "touches_image_border": false,
+      "depth": 0,
+      "outer_area_px2": 1989.0,
+      "direct_holes": 1,
+      "qualifying_holes": 1,
+      "qualifying_hole_areas_px2": [
+        222.0
+      ],
+      "classification": "one-qualifying-hole"
+    }
+  ]
+}
